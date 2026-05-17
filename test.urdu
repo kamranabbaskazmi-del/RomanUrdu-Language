@@ -1,0 +1,3 @@
+mutakyer x = 10;
+mutakyer y = 20;
+dikha x + y;
