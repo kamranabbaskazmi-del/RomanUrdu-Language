@@ -1,0 +1,13 @@
+// Loops Demo
+dikha "=== FOR LOOP ===";
+ke liye i = 1 se 5 phir {
+    dikha "Count: " + i;
+}
+
+dikha "";
+dikha "=== WHILE LOOP ===";
+mutakyer num = 2;
+jabtak num <= 10 phir {
+    dikha "Even: " + num;
+    mutakyer num = num + 2;
+}

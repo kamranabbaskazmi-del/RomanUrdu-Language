@@ -1,0 +1,15 @@
+// Grade Calculator
+mutakyer marks = 85;
+
+dikha "=== GRADE CALCULATOR ===";
+dikha "Marks: " + marks;
+
+agar marks >= 80 phir {
+    dikha "Grade: A+ (Excellent!)";
+} warna agar marks >= 70 phir {
+    dikha "Grade: A (Very Good!)";
+} warna agar marks >= 60 phir {
+    dikha "Grade: B (Good!)";
+} warna {
+    dikha "Grade: F (Need Improvement!)";
+}

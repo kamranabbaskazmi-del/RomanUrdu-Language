@@ -1,0 +1,9 @@
+// Roman Urdu Hello World
+mutakyer name = "Roman Urdu";
+mutakyer version = 1;
+dikha "======================================";
+dikha "   ROMAN URDU PROGRAMMING LANGUAGE";
+dikha "======================================";
+dikha "Hello " + name;
+dikha "Version: " + version;
+dikha "======================================";

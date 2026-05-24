@@ -1,0 +1,28 @@
+// Instagram Clone Demo
+dikha "======================================";
+dikha "   📸 ROMAN URDU INSTAGRAM";
+dikha "======================================";
+
+mutakyer followers = 1500;
+mutakyer following = 350;
+mutakyer posts = 42;
+mutakyer likes = 0;
+
+dikha "👤 Profile: @roman_urdu_dev";
+dikha "📸 Posts: " + posts;
+dikha "👥 Followers: " + followers;
+dikha "❤️ Following: " + following;
+
+dikha "";
+dikha "📱 FEED:";
+
+ke liye i = 1 se 3 phir {
+    mutakyer postLikes = i * 100;
+    dikha "Post " + i + ": ❤️ " + postLikes + " likes";
+}
+
+dikha "";
+dikha "👍 Like a post!";
+mutakyer likes = likes + 100;
+dikha "Total likes: " + likes;
+dikha "======================================";

@@ -1,0 +1,12 @@
+// Roman Urdu Calculator
+mutakyer a = 25;
+mutakyer b = 10;
+
+dikha "=== CALCULATOR ===";
+dikha "Number 1: " + a;
+dikha "Number 2: " + b;
+dikha "";
+dikha "Addition: " + (a + b);
+dikha "Subtraction: " + (a - b);
+dikha "Multiplication: " + (a * b);
+dikha "Division: " + (a / b);
