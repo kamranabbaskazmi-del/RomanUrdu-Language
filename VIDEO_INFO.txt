@@ -1,0 +1,19 @@
+📹 Video Recording Instructions:
+
+1. Open Termux
+2. Run: java -cp ".:antlr-4.13.1-complete.jar" Main demo/01_hello.urdu
+3. Record your screen
+4. Explain in Urdu:
+   - "Ye Roman Urdu Language hai"
+   - "Dekhte hain pehla program"
+   - "Output aya Hello Roman Urdu"
+
+5. Run calculator demo
+6. Run Instagram demo
+
+Video Length: 3-5 minutes
+Language: Urdu
+
+Upload to YouTube and get video ID.
+Then update README.md with:
+https://youtu.com/YOUR_VIDEO_ID

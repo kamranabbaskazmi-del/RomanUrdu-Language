@@ -109,3 +109,10 @@ cat > PRICING.md << 'EOF'
 
 **Coming soon! Watch this space for complete video tutorial.**
 
+
+## 📹 Video Tutorial
+
+[![Roman Urdu Language Tutorial](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+**Coming soon! Watch this space for complete video tutorial.**
+
